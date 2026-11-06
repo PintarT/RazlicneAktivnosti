@@ -13,15 +13,10 @@ Aplikacija vsebuje tri preproste zaslone z različnimi barvami in velikim besedi
 ## Zaslonske slike
 
 ### Glavni zaslon / Activity 1
-![Activity 1](./screenshots/1.png)
+![Activity 1](./Screenshot_20261106_085712.png)
 
 ### Activity 2
-![Activity 2](./screenshots/2.png)
+![Activity 2](./Screenshot_20261106_085730.png)
 
 ### Activity 3
-![Activity 3](./screenshots/3.png)
-
-## Opomba
-Slikovne datoteke so predvidene v mapi `screenshots/` z imeni `1.png`, `2.png` in `3.png`.
-
-Če želite, lahko jih kasneje zamenjate z dejanskimi posnetki zaslona aplikacije.
+![Activity 3](./Screenshot_20261106_085740.png)
