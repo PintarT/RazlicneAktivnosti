@@ -13,10 +13,10 @@ Aplikacija vsebuje tri preproste zaslone z različnimi barvami in velikim besedi
 ## Zaslonske slike
 
 ### Glavni zaslon / Activity 1
-![Activity 1](./Screenshot_20261106_085712.png)
+<img src="./Screenshot_20261106_085712.png" alt="Activity 1" width="300">
 
 ### Activity 2
-![Activity 2](./Screenshot_20261106_085730.png)
+<img src="./Screenshot_20261106_085730.png" alt="Activity 2" width="300">
 
 ### Activity 3
-![Activity 3](./Screenshot_20261106_085740.png)
+<img src="./Screenshot_20261106_085740.png" alt="Activity 3" width="300">
