@@ -12,11 +12,8 @@ Aplikacija vsebuje tri preproste zaslone z različnimi barvami in velikim besedi
 
 ## Zaslonske slike
 
-### Glavni zaslon / Activity 1
-<img src="./Screenshot_20261106_085712.png" alt="Activity 1" width="300">
-
-### Activity 2
-<img src="./Screenshot_20261106_085730.png" alt="Activity 2" width="300">
-
-### Activity 3
-<img src="./Screenshot_20261106_085740.png" alt="Activity 3" width="300">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <img src="./Screenshot_20261106_085712.png" alt="Activity 1" width="220">
+  <img src="./Screenshot_20261106_085730.png" alt="Activity 2" width="220">
+  <img src="./Screenshot_20261106_085740.png" alt="Activity 3" width="220">
+</div>
